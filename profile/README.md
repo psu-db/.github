@@ -7,5 +7,7 @@ engines, and database management system on modern hardware.
 For more information, please visit [the homepage of PI](https://sites.psu.edu/dongx/).
 
 People:
+
 PI: Dong Xie, Assistant Professor at Penn State CSE
+
 Current PhD Students: Douglas Rumbaugh (2021--), Maxwell Norfolk (2022 --)
