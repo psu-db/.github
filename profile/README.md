@@ -1,8 +1,8 @@
 Welcome! 👋
 
-We are Penn State Database System Lab at Penn State Computer Science and Engineering department. We **build data** systems to address challenges
-of processing and analyzing real-world large scale data. Our current research focus on systematic indexing design paradigm, real-time data analysis
-engines, and database management system on modern hardware.
+We are the Penn State Database System Group at Penn State Computer Science and Engineering Department. We **build data** systems to address the challenges
+of processing and analyzing real-world, large-scale data. Our current research focuses on systematic indexing design paradigms, real-time data analysis
+engines, and database management systems on modern hardware.
 
 For more information, please visit [the homepage of PI](https://sites.psu.edu/dongx/).
 
