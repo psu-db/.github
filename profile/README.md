@@ -10,4 +10,6 @@ People:
 
 PI: Dong Xie, Assistant Professor at Penn State CSE
 
-Current PhD Students: Douglas Rumbaugh (2021--), Maxwell Norfolk (2022 --)
+Current PhD Students: Maxwell Norfolk (2022 --), Vishak Bharadwaj (2025 --)
+
+Alumni: Douglas Rumbaugh (2021--2025)
